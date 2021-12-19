@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 { 
-  print("谌立杰!");
+  print(hello!");
   return 0;
 }
